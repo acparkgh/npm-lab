@@ -1,14 +1,17 @@
 {
   "name": "color-clock",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm-lab",
   "main": "index.js",
   "scripts": {
     "test": "echo 'Hello World!'"
   },
-  "author": "",
+  "author": "Andrew",
   "license": "ISC",
   "dependencies": {
     "moment": "^2.29.1"
-  }
+  },
+  "keywords": [
+    "npm-lab"
+  ]
 }
