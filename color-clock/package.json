@@ -4,7 +4,7 @@
   "description": "npm-lab",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Hello World!'"
+    "test": "echo 'Color-Clock!'"
   },
   "author": "Andrew",
   "license": "ISC",
